@@ -1,9 +1,1 @@
-elasticsearch:8.15.3
-logstash:8.15.3
-minio/minio
-portainer/portainer-ce
-keking/kkfileview
-nacos/nacos-server
-kibana:8.15.3
-neo4j
-flowable/flowable-ui
+busybox
