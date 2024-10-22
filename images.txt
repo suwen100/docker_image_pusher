@@ -1,4 +1,4 @@
-elasticsearch
+elasticsearch:8.15.3
 logstash
 minio/minio
 portainer/portainer-ce
