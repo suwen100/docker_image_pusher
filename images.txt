@@ -1,1 +1,1 @@
-alibabadragonwell/dragonwell
+alibabadragonwell/dragonwell:17-anolis
