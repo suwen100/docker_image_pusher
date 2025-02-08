@@ -1,1 +1,1 @@
-alibabadragonwell/dragonwell:17-anolis
+jrottenberg/ffmpeg
