@@ -1,1 +1,2 @@
-zlmediakit/zlmediakit:master
+openjdk:26-trixie
+openjdk:17-jdk-slim
